@@ -1,0 +1,134 @@
+/* ex-com single card */
+
+/* <div class="col-12 col-md-4 col-lg-3">
+  <div class="card">
+    <div class="innerCard">
+      <img src="<?php echo BASE_URL; ?>/assets/img/ex-com/avatar.jpg" alt="">
+
+      <div class="textBx">
+        <h3> Md. Tazbinur Rahaman </h3>
+        <h5> Project Director, RCF devTeam </h5>
+      </div>
+
+      <ul>
+        <li>
+          <a href="#">
+            <i class="fa fa-linkedin" aria-hidden="true"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+          </a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div> */
+
+/* ex-com single card */
+#committeeCards .imgCard img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 3px 5px 8px rgba(203, 203, 203, 0.79);
+}
+
+#committeeCards .card {
+  position: relative;
+  border: none;
+  background-color: rgb(238, 236, 236);
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+#committeeCards .card .innerCard {
+  /* width: 220px; */
+  width: 95%;
+  background: transparent;
+  text-align: center;
+  margin: auto;
+  margin-top: -20px;
+}
+
+#committeeCards .card .innerCard img {
+  /* width: 220px;
+  height: 220px; */
+  width: 95%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 2px 4px 10px rgba(128, 128, 128, 0.78);
+  border-radius: 5px;
+}
+
+#committeeCards .card .innerCard .textBx h3 {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#committeeCards .card .innerCard .textBx h5 {
+  font-size: 13px;
+  font-weight: 200;
+}
+
+#committeeCards .card .innerCard ul {
+  list-style: none;
+  display: inline-block;
+}
+
+#committeeCards .card .innerCard ul li {
+  margin: 5px;
+}
+
+#committeeCards .card .innerCard ul li a {
+  text-decoration: none;
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  border-radius: 2px;
+  color: var(--RCFprimary);
+  transition: 0.2s ease-in all;
+}
+
+#committeeCards .card .innerCard ul li a:hover {
+  color: white;
+  background-color: var(--RCFprimary);
+}
+
+/* NEW LIST STYLES */
+
+#ex-com .all-members .title {
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+#ex-com .all-members .card {
+  padding: 5px 15px;
+  margin-bottom: 10px;
+  border: none;
+  border-left: 4px solid var(--RCFprimary);
+  background-color: rgb(244, 244, 244);
+}
+
+#ex-com .all-members .card h3 {
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+#ex-com .all-members .card h5 {
+  font-size: 14px;
+  font-weight: 200;
+}
+/* Content pane ends here */
+/* NEW LIST STYLES END*/
+
+/* tablet devices */
+@media only screen and (max-width: 1025px) and (min-width: 415px) {
+}
+
+/* mobile devices */
+@media only screen and (max-width: 414px) and (min-width: 1px) {
+}

@@ -1,0 +1,74 @@
+#whatsHeppening h1{
+  font-size: 25px;
+  color: var(--RCFprimary)
+}
+
+#whatsHeppening p{
+  font-size: 14px;
+  font-weight: 100;
+  padding: 7px 10px;
+  border-left: 2px solid var(--RCFprimary)
+}
+
+#schedule h1{
+  font-size: 25px;
+  color: var(--RCFprimary)
+}
+
+#schedule .list-group{
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+
+#schedule .list-group p{
+  border-left: 1px solid var(--RCFprimary);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  font-size: 13px;
+  font-weight: 100;
+  min-height: 70px;
+}
+
+#schedule .list-group .active{
+  background-color: rgb(238, 238, 238);
+  color: var(--RCFlight);
+  border-color: rgb(238, 238, 238);
+}
+
+#schedule .list-group .active:hover{
+  color: white;
+  background-color: var(--teal);
+  border-color: var(--teal)
+}
+
+#schedule .list-group .active:hover p{
+  border-color: white;
+}
+
+#sponsprs h1{
+  font-size: 25px;
+  color: var(--RCFprimary)
+}
+
+#companies h1{
+  font-size: 25px;
+  color: var(--RCFprimary)
+}
+
+#companies .row .card{
+  background-color: rgb(238, 238, 238);
+  border: none;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#companies .row .card p{
+  font-size: 14px;
+  font-weight: 100
+}
+
+#companies .row .card .btn-primary{
+  /* background-color: #EF6423 !important; */
+  border: none !important
+}

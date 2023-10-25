@@ -1,0 +1,625 @@
+body, html{
+  width: 100%;
+  box-sizing: border-box;
+  /* font-family: 'Rubik', sans-serif; */
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+/* color variables starts */
+:root{
+  --RCFsecondary: #116149;
+  --RCFprimary: #13aa52;
+  --RCFbrown: rgb(228, 141, 43);
+  --RCFdark: #1A1A1A;
+  --RCFlight: #42494f;
+  --RCFbg: rgb(245, 245, 245)
+}
+/* color variables ends */
+
+/* global buttons starts */
+.btn-primary{
+  background-color: var(--RCFprimary) !important;
+  border-color: var(--RCFprimary) !important;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1) !important;
+  transition: 0.1s all ease-in
+}
+.btn-primary:focus , .btn-primary:visited{
+  background-color: var(--RCFprimary) !important;
+  border-color: var(--RCFprimary) !important;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1) !important;
+  transition: 0.1s all ease-in
+}
+.btn-primary:hover{
+  background-color: var(--RCFprimary);
+  border-color: var(--RCFprimary);
+  box-shadow: 2px 4px 4px 0 rgba(0,0,0,0.1);
+  margin-top: -2px;
+  margin-bottom: 2px;
+}
+
+.btn-outline-primary,.btn-outline-primary:focus,.btn-outline-primary:visited{
+  color: var(--RCFprimary) !important;
+  background-color: white !important;
+  border-color: var(--RCFprimary) !important;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1) !important;
+  transition: 0.1s all ease-in
+}
+.btn-outline-primary:hover{
+  margin-top: -2px;
+  margin-bottom: 2px;
+  color: var(--RCFprimary);
+  border: 1px solid var(--RCFprimary);
+  background-color: white;
+  box-shadow: 2px 4px 4px 0 rgba(0,0,0,0.1);
+}
+/* global buttons ends */
+
+/* global add ons */
+.RCF-border-bottom{
+  margin: 10px auto 50px auto;
+  width: 70px;
+  height: 4px;
+  background: var(--RCFprimary);
+}
+
+.innerBrands{
+  height: 200px !important;
+  box-shadow: 5px 4px 10px rgba(0,0,0,0.1);
+}
+
+.innerfairBrands{
+  height: 350px !important;
+  box-shadow: 5px 4px 10px rgba(0,0,0,0.1);
+}
+/* global add ons end */
+
+/* global RCF background and borders color start */
+.dark-bg{
+  background-color: var(--RCFbg)
+}
+
+.bg-RCF-primary{
+  background: var(--RCFprimary);
+}
+.bg-RCF-primaryLight{
+  background: #13aa52;
+}
+.outline-RCF-primary{
+  border: 2px solid var(--RCFlight);
+}
+.outline-RCF-white{
+  border: 2px solid #fff;
+}
+.RCF-translate-up50{
+  transform: translate(0,-10%);
+}
+/* global RCF background color end */
+
+/* home branding section starts */
+#homeBranding{
+  width: 100%;
+  height: 520px;
+  clip-path: polygon(0 0, 100% 0, 100% 83%, 0% 100%);
+  background-color: #edf1f2;
+  padding-top: 130px;
+}
+
+#homeBranding h1{
+  font-size: 60px;
+  font-weight: 400;
+}
+#homeBranding h4{
+  letter-spacing: 3px
+}
+#homeBranding h6{
+  font-size: 15px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  border-left: 2px solid var(--RCFprimary);
+  padding: 5px 10px;
+  color: var(--RCFlight);
+}
+
+#homeBranding .brandingLogo img{
+  width: 100%;
+  max-width: 350px;
+  margin-top: -90px
+}
+/* home branding section ends */
+
+/* innerHomeBranding section starts */
+#innerHomeBranding {
+  height: 250px;
+  width: 100%;
+  background-color: #edf1f2;
+}
+/*
+#innerHomeBranding .overlay{
+   position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  background: linear-gradient( rgba(255, 255, 255, 0.5) 20%, rgba(255, 255, 255, 0.95) 100%);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 2; 
+}
+*/
+#innerHomeBranding h1{
+ color: var(--RCFlight);
+ font-size:50px;
+ font-weight: 900;
+ margin-top: 110px !important
+}
+
+#innerHomeBranding p{
+  font-size: 15px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  border-left: 2px solid var(--RCFprimary);
+  padding-left: 10px
+}
+/* innerHomeBranding ends here */
+
+/* about card section starts */
+#aboutCard .col-12{
+  margin-bottom: 20px;
+  padding-top: 20px;
+  transition: 0.1s all ease-in;
+}
+
+#aboutCard i{
+  color: var(--RCFprimary);
+  margin-right: 10px
+}
+
+#aboutCard span{
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(83, 83, 83)
+}
+
+#aboutCard p{
+  margin-top: 20px;
+  font-size: 15px;
+  color: var(--RCFlight);
+  font-weight: 200;
+  border-left: 2px solid var(--RCFprimary);
+  min-height: 130px;
+  padding: 5px 10px
+}
+
+#aboutCard .col-12:hover{
+background-color: var(--RCFprimary)
+}
+
+#aboutCard .col-12:hover i{
+  color: white !important
+}
+
+#aboutCard .col-12:hover span{
+  color: white !important
+}
+
+#aboutCard .col-12:hover p{
+  color: white !important;
+  border-left: 2px solid white;
+}
+/* about card section ends */
+
+/* flagship section starts */
+#flagship{
+  margin-top: 70px;
+  margin-bottom: 50px
+}
+
+#flagship .clipPath{
+  width: 100%;
+  height: 300px;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 20% 100%);
+}
+
+#flagship .clipPath img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#flagship .text{
+  padding-top: 45px;
+  /* padding-left: 150px */
+  padding-left: 20%
+}
+
+#flagship .text p{
+  font-size: 15px;
+  font-weight: 200;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+/* flagship section ends */
+
+/* agenda section starts here */
+#agendaSection{
+  margin-bottom: 60px
+}
+
+#agendaSection .card{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px
+}
+
+#agendaSection .card .icon{
+  background-color: var(--RCFprimary);
+  color: white;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  align-content: space-around;
+  flex-direction: flex;
+}
+
+#agendaSection .card .icon i{
+  margin: auto;
+}
+
+#agendaSection .card .text{
+  flex: 5;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+#agendaSection .card .text .title{
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 10px
+}
+
+#agendaSection .card .text p{
+  font-size: 13px;
+  font-weight: 100;
+  margin: 0px;
+}
+/* agenda section ends here */
+
+/* thought section starts here */
+#thought{
+  padding-top: 70px !important;
+  padding-bottom: 50px !important;
+}
+
+#thought .thoughtCard{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px
+}
+
+#thought .thoughtCard img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 1;
+  margin-top: -100px;
+  box-shadow: 5px 5px 7px rgba(96, 96, 96, 0.75)
+}
+
+#thought .thoughtCard .textBx{
+  background-color: white;
+  padding: 20px 30px 20px 80px;
+  margin-left: 50px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+#thought .thoughtCard .textBx h3{
+  font-size: 18px;
+  font-weight: 600
+}
+
+#thought .thoughtCard .textBx h5{
+  font-size: 15px
+}
+
+#thought .thoughtCard .textBx p{
+  font-size: 12px;
+  color: var(--RCFlight);
+  font-weight: 200
+}
+/* thought section ends here */
+
+/* gallery section starts */
+#homeGallery{
+margin-top: 30px;
+margin-bottom: 50px
+}
+
+#homeGallery .owl-carousel {
+    text-align: center;
+}
+
+#homeGallery .owl-carousel .item {
+    background-color: gold;
+    margin: 10px;
+    padding: 1rem;
+}
+
+#homeGallery .owl-theme .owl-dots .owl-dot span,
+#homeGallery .owl-theme .owl-dots .owl-dot span {
+    /* height: 15px; */
+    /* transition: 0.3s ease; */
+    outline: none;
+    border: none;
+}
+
+#homeGallery .owl-theme .owl-dots .owl-dot.active span,
+#homeGallery .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: var(--teal);
+    /* transition: 0.6s ease; */
+    outline: none;
+    border: none;
+    margin-top: 10px
+}
+
+#homeGallery .cara{
+  height: 200px;
+
+}
+
+#homeGallery .cara img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#homeGallery .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
+  display: none
+}
+/* gallery section ends */
+
+/* counter section starts */
+#counter{
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+
+#counter .col-6{
+  text-align: center;
+}
+
+#counter h2{
+  font-weight: 200;
+  font-size: 50px;
+  font-weight: 400
+}
+
+#counter span{
+  color: var(--gray);
+  letter-spacing: 2px;
+  display: block;
+  margin-bottom: 20px
+}
+/* counter section ends */
+
+/* tablet devices */
+@media only screen and (max-width: 1025px) and (min-width: 415px) {
+  #homeBranding .title_logo{
+    display: block;
+    width: 100px
+  }
+  #homeBranding h1{
+    font-size: 50px;
+    font-weight: 400;
+  }
+  #homeBranding h4{
+    letter-spacing: 3px
+  }
+  #homeBranding .title_text{
+    display: none
+  }
+  #innerHomeBranding {
+    height: 230px;
+    width: 100%;
+    background-color: #edf1f2;
+  }
+  #innerHomeBranding h1{
+   color: var(--RCFlight);
+   font-size:50px;
+   font-weight: 900;
+   margin-top: 90px !important
+  }
+  #thought .thoughtCard img{
+    margin-top: -80px;
+  }
+  #flagship .clipPath{
+    width: 100%;
+    height: auto;
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); */
+  }
+  #flagship .text{
+    padding-top: 45px;
+    padding-left: 30px
+  }
+
+  #flagship .text p{
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-bottom: 20px
+  }
+  #flagship .text a{
+    margin-bottom: 40px
+  }
+}
+
+/* mobile devices */
+@media only screen and (max-width: 414px) and (min-width: 1px) {
+  #homeBranding .title_logo{
+    display: block;
+    width: 100px
+  }
+  #homeBranding h1{
+    font-size: 50px;
+    font-weight: 400;
+  }
+  #homeBranding h4{
+    letter-spacing: 3px
+  }
+  #homeBranding .title_text{
+    display: none
+  }
+  #innerHomeBranding{
+    height: 250px
+  }
+  #innerHomeBranding .overlay h1{
+    font-size: 30px;
+    margin-top: 100px !important
+  }
+  #thought .thoughtCard img{
+    margin-top: -130px;
+    width: 70px;
+    height: 70px
+  }
+  #thought .thoughtCard .textBx{
+    background-color: white;
+    padding: 20px 30px 20px 60px;
+    margin-left: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  #flagship{
+    margin-top: 20px
+  }
+  #flagship .clipPath{
+    width: 100%;
+    height: 200px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+  #flagship .text{
+    padding-top: 45px;
+    padding-left: 20px
+  }
+
+  #flagship .text p{
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-bottom: 20px
+  }
+
+  #flagship .text a{
+    margin-bottom: 30px
+  }
+
+  #counter span{
+    font-size: 13px
+  }
+}
+/* home page css ends */
+
+/* footer css starts here */
+  .footer{
+  padding-top: 70px;
+  padding-bottom: 70px
+  }
+
+  .footer .social{
+    list-style: none;
+    text-align: center;
+  }
+
+  .footer .social li{
+    display: inline-block;
+  }
+
+  .footer .social li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  color: rgb(179, 179, 179);
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  height: 40px;
+  border: 1px solid rgb(179, 179, 179);
+  border-radius: 50%;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  }
+
+  .footer .social li a:hover{
+  background-color: white;
+  color: black
+  }
+
+  .footer .links{
+    list-style: none;
+    text-align: center;
+  }
+
+  .footer .links li{
+    display: inline-block;
+    margin: 5px 20px;
+  }
+
+  .footer .links li a{
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: 100;
+    color: rgb(167, 167, 167)
+  }
+
+  .footer .links li a:hover{
+  color: white;
+  }
+
+  .footer hr{
+    background-color: rgb(143, 143, 143);
+    width: 70%;
+    margin-left: 15%
+  }
+
+  .footer p{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: rgb(179, 179, 179);
+    line-height: 25px
+  }
+
+  .footer p a{
+    text-decoration: none;
+    font-weight: 400;
+    color: white
+  }
+
+  .footer p a:hover{
+    color: var(--RCFprimary)
+  }
+
+  /* tablet devices */
+  @media only screen and (max-width: 1025px) and (min-width: 415px) {
+
+  }
+
+  /* mobile devices */
+  @media only screen and (max-width: 414px) and (min-width: 1px) {
+    .footer .links li a{
+      letter-spacing: 2px;
+    }
+  }
+/* footer css ends here */

@@ -1,0 +1,120 @@
+/* about us starts here */
+
+#about-us,
+#history {
+    font-size: 15px;
+    font-weight: 100;
+}
+
+
+/* about us ends here */
+
+
+/* what we do start here */
+
+#whatWeDo p {
+    font-size: 13px;
+    font-weight: 100;
+    border-left: 2px solid var(--RCFprimary);
+    padding: 5px 10px;
+    min-height: 200px
+}
+
+#whatWeDo .fa {
+    color: var(--RCFprimary);
+}
+
+#whatWeDo .specialized_icon{
+  width: 60px
+}
+/* what we do ends here */
+
+
+/*  our career fair starts */
+
+#ourCareerFair {
+    margin-top: 70px;
+    margin-bottom: 0px
+}
+
+#ourCareerFair .clipPath {
+    width: 100%;
+    height: 300px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 20% 100%);
+}
+
+#ourCareerFair .clipPath img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#ourCareerFair .text {
+    padding-top: 45px;
+    /* padding-left: 150px */
+    padding-left: 20%
+}
+
+#ourCareerFair .text p {
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+
+/* our career fair section ends */
+
+
+/* tablet devices */
+
+@media only screen and (max-width: 1025px) and (min-width: 415px) {
+    #ourCareerFair .clipPath {
+        width: 100%;
+        height: auto;
+        /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); */
+    }
+    #ourCareerFair .text {
+        padding-top: 45px;
+        padding-left: 30px
+    }
+    #ourCareerFair .text p {
+        font-size: 15px;
+        font-weight: 200;
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+    #ourCareerFair .text a {
+        margin-bottom: 40px
+    }
+}
+
+
+/* mobile devices */
+
+@media only screen and (max-width: 414px) and (min-width: 1px) {
+    #ourCareerFair {
+        margin-top: 20px
+    }
+    #ourCareerFair .clipPath {
+        width: 100%;
+        height: 200px;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    #ourCareerFair .text {
+        padding-top: 45px;
+        padding-left: 20px
+    }
+    #ourCareerFair .text p {
+        font-size: 15px;
+        font-weight: 200;
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+    #ourCareerFair .text a {
+        margin-bottom: 30px
+    }
+    #counter span {
+        font-size: 13px
+    }
+}

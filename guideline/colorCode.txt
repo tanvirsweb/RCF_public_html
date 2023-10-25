@@ -1,0 +1,3 @@
+balck: rgb(21, 34, 46)
+green: rgb(28, 206, 92)
+brown: tgb(228, 141, 43)

@@ -1,0 +1,29 @@
+#coverageSection .card .card-body .card-title {
+    min-height: 50px;
+}
+
+/* Three Column */
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    #newsSection .container .news .singleNews .card {
+        height: 364px;
+    }
+}
+
+/* Two Column */
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    #newsSection .container .news .singleNews .card {
+        height: 348px;
+    }
+}
+
+/* Single Column */
+@media only screen and (max-width: 767px) and (min-width: 1px) {
+    #newsSection .container .news .singleNews .card {
+        height: auto;
+    }
+    #newsSection .container .news .singleNews .card .card-foot {
+        position: relative;
+        padding-top: 8px;
+        bottom: auto;
+    }
+}

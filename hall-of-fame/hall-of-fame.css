@@ -1,0 +1,78 @@
+#hallOfFame {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+/* Nav item buttons starts here */
+
+#hallOfFame .nav .nav-item {
+    margin-top: 5px;
+}
+
+#hallOfFame .nav a {
+    text-decoration: none;
+    color: var(--RCFprimary);
+    border: 1px solid var(--RCFprimary);
+    border-radius: 5px;
+    background-color: var(--RCFligit);
+    font-weight: 300;
+    padding: 5px 20px;
+    font-size: 13px
+}
+
+#hallOfFame .nav .nav-item .nav-link:hover {
+    background-color: var(--RCFprimary);
+    color: #fff;
+}
+
+#hallOfFame .nav .nav-item .nav-link.active {
+    background-color: var(--RCFprimary);
+    color: #fff;
+}
+
+
+/* Nav item buttons ends here */
+
+
+/* Content pane starts here */
+#hallOfFame .tab-content {
+    margin: 30px 0;
+}
+
+#hallOfFame .tab-content .content-section {
+    /* font-style: italic; */
+}
+
+#hallOfFame .all-members .title{
+margin-bottom: 20px;
+font-weight: 400
+}
+
+#hallOfFame .all-members .card{
+padding: 5px 15px;
+margin-bottom: 10px;
+border: none;
+border-left: 4px solid var(--RCFprimary);
+background-color: rgb(244, 244, 244)
+}
+
+#hallOfFame .all-members .card h3{
+  font-size: 18px;
+  margin-top: 5px
+}
+
+#hallOfFame .all-members .card h5{
+  font-size: 14px;
+  font-weight: 200
+}
+/* Content pane ends here */
+
+
+/* mobile devices */
+
+@media only screen and (max-width: 414px) and (min-width: 1px) {
+    #homeBranding .overlay h1 {
+        font-size: 30px;
+    }
+}

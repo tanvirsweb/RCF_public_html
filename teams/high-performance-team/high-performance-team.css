@@ -1,0 +1,61 @@
+#teamBranding.highPerf {
+    height: 520px;
+}
+
+/* tablet devices */
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    #teamBranding.highPerf {
+        height: 580px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #teamBranding.highPerf {
+        height: 550px;
+    }
+    #teamBranding h1 {
+        font-size: 45px;
+    }
+    #teamBranding h6 {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #teamBranding.highPerf {
+        height: 580px;
+    }
+    #teamBranding h1 {
+        font-size: 40px;
+    }
+    #teamBranding h6 {
+        font-size: 14px;
+    }
+}
+
+
+/* mobile devices */
+
+@media only screen and (max-width: 440px) {
+    #teamBranding.highPerf {
+        height: 600px;
+    }
+    #teamBranding h1 {
+        font-size: 38px;
+    }
+    #teamBranding h6 {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #teamBranding.highPerf {
+        height: 660px;
+    }
+    #teamBranding h1 {
+        font-size: 36px;
+    }
+    #teamBranding h6 {
+        font-size: 13px;
+    }
+}

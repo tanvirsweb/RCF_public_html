@@ -1,0 +1,25 @@
+// cv assesment:
+form:
+  name: text
+  department: text
+  university: text
+  email: email
+  phone: '+880' number
+  input: file upload [1]_tazbinur-cv.pdf
+
+table: 6th_RCF_Fair_cv_assessment
+
+// cv drop:
+form:
+  name: text
+  department: text
+  university: text
+  expected year of graduation:
+  email: email
+  phone: '+880' number
+  company name: selection button
+  input: file upload [20]_tazbinur-cv.pdf
+
+table: 6th_RCF_Fair_cv_drop
+
+*confirmation email after successful submission

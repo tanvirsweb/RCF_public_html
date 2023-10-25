@@ -1,0 +1,56 @@
+#teamBranding.content {
+    height: 560px;
+}
+
+/* tablet devices */
+
+@media only screen and (max-width: 768px) {
+    #teamBranding.content {
+        height: 590px;
+    }
+    #teamBranding h1 {
+        font-size: 45px;
+    }
+    #teamBranding h6 {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #teamBranding.content {
+        height: 610px;
+    }
+    #teamBranding h1 {
+        font-size: 42px;
+    }
+    #teamBranding h6 {
+        font-size: 14px;
+    }
+}
+
+
+/* mobile devices */
+
+@media only screen and (max-width: 440px) {
+    #teamBranding.content {
+        height: 640px;
+    }
+    #teamBranding h1 {
+        font-size: 38px;
+    }
+    #teamBranding h6 {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #teamBranding.content {
+        height: 680px;
+    }
+    #teamBranding h1 {
+        font-size: 36px;
+    }
+    #teamBranding h6 {
+        font-size: 13px;
+    }
+}

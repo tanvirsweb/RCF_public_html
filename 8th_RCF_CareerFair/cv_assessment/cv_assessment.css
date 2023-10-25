@@ -1,0 +1,58 @@
+/* Contact Page starts here */
+
+#cv_assessment #contactPage {
+  padding-bottom: 50px;
+}
+
+#cv_assessment .input-group-text {
+  border-top: none !important;
+  border-left: none !important;
+}
+
+#cv_assessment #contactPage .find,
+.location {
+  font-size: 14px;
+  font-weight: 200;
+}
+
+#cv_assessment #contactPage .container .row .contact-form .form-group {
+  margin-top: 8px;
+}
+
+#cv_assessment #contactPage .container .row .contact-form .form-group input,
+#cv_assessment #contactPage .container .row .contact-form .form-group textarea {
+  border-radius: 0%;
+}
+
+#cv_assessment #contactPage .contactText {
+  background-color: rgb(232, 232, 232);
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+#cv_assessment #contactForm input {
+  border: none;
+  outline: none !important;
+  border-bottom: 1px solid rgb(208, 207, 207);
+}
+
+#cv_assessment textarea:focus,
+input:focus {
+  outline: none !important;
+}
+
+#cv_assessment .form-control:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#cv_assessment .form-control {
+  border: none;
+}
+
+#cv_assessment textarea {
+  border-bottom: 1px solid rgb(208, 207, 207) !important;
+}
+
+/* Contact Page ends here */

@@ -1,0 +1,270 @@
+/* home branding section starts */
+
+#teamBranding {
+    width: 100%;
+    height: 500px;
+    clip-path: polygon(0 0, 100% 0, 100% 83%, 0% 100%);
+    background-color: #edf1f2;
+    padding-top: 130px;
+}
+
+#teamBranding h1 {
+    font-size: 60px;
+    font-weight: 400;
+}
+
+#teamBranding h4 {
+    letter-spacing: 3px
+}
+
+#teamBranding h6 {
+    font-size: 15px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    border-left: 2px solid var(--RCFprimary);
+    padding: 5px 10px;
+    color: var(--RCFlight);
+}
+
+#teamBranding .brandingLogo img {
+    width: 100%;
+    max-width: 350px;
+    margin-top: -90px
+}
+
+
+/* home branding section ends */
+
+/* SERVICES START */
+
+#services .mt-60 {
+    margin-top: 60px;
+}
+
+#services .section-block-grey {
+    padding: 90px 0px 90px 0px;
+    background-color: #f5f5f5;
+}
+
+#services .serv-section-2 {
+    position: relative;
+    border: 1px solid #eee;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(50, 50, 50, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 30px;
+}
+
+#services .serv-section-2:before {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    z-index: 0;
+    content: " ";
+    width: 120px;
+    height: 120px;
+    background: #f5f5f5;
+    border-bottom-left-radius: 136px;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+}
+
+#services .serv-section-2-icon {
+    position: absolute;
+    top: 18px;
+    right: 22px;
+    max-width: 100px;
+    z-index: 1;
+    text-align: center;
+}
+
+#services .serv-section-2-icon i {
+    color: var(--success);
+    font-size: 48px;
+    line-height: 65px;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+}
+
+#services .serv-section-desc {
+    position: relative;
+}
+
+#services .serv-section-2 h4 {
+    color: #333;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    padding-right: 3rem;
+}
+
+#services .serv-section-2 h5 {
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1;
+    margin-top: 5px;
+}
+
+#services .section-heading-line-left {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: var(--success);
+    border-radius: 25%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#services .serv-section-2 p {
+    margin-top: 25px;
+    padding-right: 50px;
+}
+
+#services .serv-section-2:hover .serv-section-2-icon i {
+    color: #fff;
+}
+
+#services .serv-section-2:hover:before {
+    background: var(--success);
+}
+
+
+/* SERVICES END */
+
+
+/* agenda section starts here */
+#teamAgendaSection .card {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px
+}
+
+#teamAgendaSection .card .icon {
+    background-color: var(--RCFprimary);
+    color: white;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: flex;
+}
+
+#teamAgendaSection .card .icon i {
+    margin: auto;
+}
+
+#teamAgendaSection .card .text {
+    flex: 5;
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+#teamAgendaSection .card .text .title {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 10px
+}
+
+#teamAgendaSection .card .text p {
+    font-size: 13px;
+    font-weight: 100;
+    margin: 0px;
+}
+
+
+/* agenda section ends here */
+
+
+/* TEAM SECTION START */
+
+#team-section .RCF-border-bottom {
+    background: var(--RCFprimary);
+}
+
+#team-section .card {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-left: 4px solid var(--RCFprimary);
+    background-color: rgb(244, 244, 244);
+}
+
+#team-section .card h3 {
+    font-size: 18px;
+    margin-top: 5px
+}
+
+#team-section .card h5 {
+    font-size: 14px;
+    font-weight: 200
+}
+
+
+/* #team-section .col-md-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#team-section .team-member {
+  display: block;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background: #333;
+  background-position: center top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-right: none;
+}
+#team-section .team-member:hover {
+  border-right: 4px solid var(--light);
+}
+#team-section .team-member .img-fluid {
+  transform: scale(1.2);
+} */
+
+
+/* TEAM SECTION END */
+
+
+/* TROPHY IMG START*/
+
+.trophy-img {
+    width: 100%;
+    height: 300px;
+}
+
+
+/* TROPHY IMG END */
+
+
+/* tablet devices */
+
+@media only screen and (max-width: 768px) {
+    #teamBranding h1 {
+        font-size: 45px;
+    }
+    #teamBranding h6 {
+        font-size: 14px;
+    }
+}
+
+
+/* mobile devices */
+
+@media only screen and (max-width: 425px) {
+    #teamBranding h1 {
+        font-size: 38px;
+    }
+    #teamBranding h6 {
+        font-size: 13px;
+    }
+}

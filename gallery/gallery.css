@@ -1,0 +1,97 @@
+#gallery {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+
+/* Nav item buttons starts here */
+
+#gallery .nav .nav-item {
+    margin-top: 5px;
+}
+
+#gallery .nav a {
+    text-decoration: none;
+    color: var(--RCFprimary);
+    border: 1px solid var(--RCFprimary);
+    border-radius: 5px;
+    background-color: var(--RCFligit);
+    font-weight: 300;
+    padding: 5px 20px;
+    font-size: 13px
+}
+
+#gallery .nav .nav-item .nav-link:hover {
+    background-color: var(--RCFprimary);
+    color: #fff;
+}
+
+#gallery .nav .nav-item .nav-link.active {
+    background-color: var(--RCFprimary);
+    color: #fff;
+}
+
+
+/* Nav items buttons ends here */
+
+
+/* Gallery item starts here */
+
+#gallery .tab-content .gallery-item {
+    position: relative;
+    height: 150px;
+    width: 100%;
+    overflow: hidden !important;
+    border-radius: 10px;
+}
+
+#gallery .tab-content .gallery-item a {
+    text-decoration: none;
+    overflow: hidden !important;
+}
+
+#gallery .tab-content .gallery-item img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all ease-in-out 0.4s;
+    overflow: hidden;
+}
+
+#gallery .tab-content .gallery-item a:hover img {
+    transform: scale(1.2);
+}
+
+
+/* Gallery item ends here */
+
+
+/* Magnific Popup Zoom */
+
+.mfp-with-zoom .mfp-container,
+.mfp-with-zoom.mfp-bg {
+    opacity: 0;
+    -webkit-backface-visibility: hidden;
+    /* ideally, transition speed should match zoom duration */
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.mfp-with-zoom.mfp-ready .mfp-container {
+    opacity: 1;
+}
+
+.mfp-with-zoom.mfp-ready.mfp-bg {
+    opacity: 0.8;
+}
+
+.mfp-with-zoom.mfp-removing .mfp-container,
+.mfp-with-zoom.mfp-removing.mfp-bg {
+    opacity: 0;
+}
+
+
+/* Magnific Popup Zoom */

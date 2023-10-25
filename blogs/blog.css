@@ -1,0 +1,132 @@
+#blogSection .container .blogs .singleBlog .card .card-body .card-title a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+
+#blogSection
+  .container
+  .blogs
+  .singleBlog
+  .card
+  .card-body
+  .card-title:hover
+  a {
+  color: var(--RCFprimary);
+}
+
+#blogSection .container .blogs .singleBlog .card {
+  position: relative;
+  height: 230px;
+}
+
+#blogSection .container .blogs .singleBlog .card .btn-bottom {
+  position: absolute;
+  bottom: 16px;
+}
+
+#blogSection .container .blogs .singleBlog .card .img {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+#blogSection .container .blogs .singleBlog .card .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.2s ease-in;
+}
+
+#blogSection .container .blogs .singleBlog .card:hover .img img {
+  transform: scale(1.1);
+}
+
+#innerHomeBranding.read {
+  height: 420px !important;
+}
+
+#innerHomeBranding #readImage {
+  height: 420px;
+  width: 100%;
+  object-fit: cover;
+}
+
+#blogContent .container #content {
+  font-family: "Noto Sans HK", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+#blogContent #blogDetail h4 {
+  border-left: 2px solid var(--RCFprimary);
+  padding-left: 10px;
+  line-height: 2rem;
+}
+
+#blogContent #recentBlogs {
+  position: sticky;
+  top: 5rem;
+}
+
+#recentBlogs .card .card-title a {
+  letter-spacing: -1px;
+  font-weight: 200;
+  text-decoration: none;
+  color: black;
+  transition: 0.2s ease-in;
+}
+
+#recentBlogs .card .card-title:hover a {
+  color: var(--RCFprimary);
+}
+
+#recentBlogs .card h6 {
+  font-weight: lighter;
+  font-size: small;
+}
+
+/*  Responsive */
+
+@media only screen and (max-width: 1199px) {
+  #blogSection .container .blogs .singleBlog .card {
+    position: relative;
+    height: 230px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #blogSection .container .blogs .singleBlog .card {
+    position: relative;
+    height: 210px;
+  }
+}
+
+/* tablet devices */
+
+@media only screen and (max-width: 767px) {
+  #blogSection .container .blogs .singleBlog .card {
+    position: relative;
+    height: fit-content;
+  }
+  #blogSection .container .blogs .singleBlog .card .btn-bottom {
+    padding-top: 10px;
+    bottom: 0;
+    position: relative;
+  }
+  #innerHomeBranding.read {
+    height: 320px !important;
+  }
+  #innerHomeBranding #readImage {
+    height: 320px;
+  }
+  #blogContent #recentBlogs {
+    position: relative;
+    top: 0;
+  }
+
+  #blogDetail h6 span {
+    display: block;
+    padding-bottom: 5px;
+  }
+}

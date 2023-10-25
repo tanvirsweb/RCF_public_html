@@ -1,0 +1,79 @@
+#newsSection .container .news .singleNews .card .card-body .card-title a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+#newsSection .container .news .singleNews .card {
+    height: 320px;
+}
+
+#newsSection .container .news .singleNews .card .card-foot{
+    position: absolute;
+    bottom: 16px;
+}
+
+#newsSection .container .news .singleNews .card .card-body .card-title:hover a {
+    color: var(--RCFprimary);
+}
+
+#newsContent .container .content,
+#newsSection .container .singleNews .card .content {
+    white-space: pre-wrap;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#newsContent #newsDetail h4{
+    border-left: 2px solid var(--RCFprimary);
+    padding-left: 10px;
+    line-height: 2rem;
+}
+
+#newsContent #recentNews {
+    position: sticky;
+    top: 4rem;
+}
+
+#newsContent .card a {
+    letter-spacing: -1px;
+    font-weight: 200;
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease-in;
+}
+
+#newsContent .card:hover a {
+    color: var(--RCFprimary);
+}
+
+#newsContent .card h6 {
+    font-weight: lighter;
+    font-size: small;
+}
+
+/* Three Column */
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    #newsSection .container .news .singleNews .card {
+        height: 364px;
+    }
+}
+
+/* Two Column */
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    #newsSection .container .news .singleNews .card {
+        height: 348px;
+    }
+}
+
+/* Single Column */
+@media only screen and (max-width: 767px) and (min-width: 1px) {
+    #newsSection .container .news .singleNews .card {
+        height: auto;
+    }
+    #newsSection .container .news .singleNews .card .card-foot {
+        position: relative;
+        padding-top: 8px;
+        bottom: auto;
+    }
+}

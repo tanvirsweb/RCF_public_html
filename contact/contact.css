@@ -1,0 +1,61 @@
+/* Contact Page starts here */
+
+#contactPage {
+    padding-bottom: 50px;
+}
+
+#contactPage h1 {}
+
+#contactPage .find, .location{
+  font-size: 14px;
+  font-weight: 200
+}
+
+#contactPage .container .row .contact-form .form-group {
+    margin-top: 8px;
+}
+
+#contactPage .container .row .contact-form .form-group input,
+#contactPage .container .row .contact-form .form-group textarea {
+    border-radius: 0%;
+}
+
+#contactPage .contactText{
+  background-color: rgb(232, 232, 232);
+  border-radius: 5px;
+  padding: 10px 20px
+}
+
+#contactForm input{
+  border: none;
+  outline: none !important;
+  border-bottom: 1px solid rgb(208, 207, 207)
+}
+
+textarea:focus, input:focus{
+    outline: none !important;
+}
+
+.form-control:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.form-control{
+  border: none
+}
+
+textarea {
+   border-bottom: 1px solid rgb(208, 207, 207) !important
+ }
+
+
+/* Facebook Page and Map starts here */
+#contactPage .container .second-row {
+    margin-top: 50px;
+}
+/* Facebook Page and Map ends here */
+
+
+/* Contact Page ends here */
