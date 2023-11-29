@@ -47,7 +47,7 @@ This event will make a pathway for the undergraduates, freshly graduates as well
             CV drop for compnaies
         </a> --> 
     </p>
-    <div class="text-center"> <a href="https://ruetcareerforum.org/8th_RCF_CareerFair/cv_drop/" id="cv_drop_submit"class="btn btn-primary">
+    <div class="text-center"> <a href="<?php echo BASE_URL; ?>/8th_RCF_CareerFair/cv_drop/" id="cv_drop_submit"class="btn btn-primary">
                         <i class="fa fa-paper-plane pr-1"></i><span id="submit_text">CV Submission</span>
                     </a></div>
 </div>
