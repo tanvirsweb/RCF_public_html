@@ -1,14 +1,14 @@
 <div class="row" id="team-members-showing">
     <div class="memberCol col-12 col-md-6 col-lg-4">
         <div class="card">
-            <h3>Mohammad Zahid Sarker</h3>
-            <h5>Executive member, ME'19 </h5>
+            <h3> Md Hasib Khan </h3>
+            <h5> Executive member, CE'20 </h5>
         </div>
     </div>
     <div class="memberCol col-12 col-md-6 col-lg-4">
         <div class="card">
-            <h3>Tajwar Taskin Arvid</h3>
-            <h5> Executive member, CE'19 </h5>
+            <h3> Ajfar Sajin </h3>
+            <h5> Executive member, CE'20 </h5>
         </div>
     </div>
 
