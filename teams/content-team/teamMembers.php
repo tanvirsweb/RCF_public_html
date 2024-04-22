@@ -2,6 +2,12 @@
     <div class="row" id="team-members-showing">
         <div class="memberCol col-12 col-md-6 col-lg-4">
             <div class="card">
+                <h3> Subrato Kumar Paul</h3>
+                <h5> Executive Member, BECM'19 </h5>
+            </div>
+        </div>
+        <div class="memberCol col-12 col-md-6 col-lg-4">
+            <div class="card">
                 <h3> Ayon Ganguly </h3>
                 <h5> Executive Member, ETE'20 </h5>
             </div>
@@ -28,12 +34,6 @@
             <div class="card">
                 <h3> Priyanti Dam </h3>
                 <h5> Executive Member, CE'20 </h5>
-            </div>
-        </div>
-        <div class="memberCol col-12 col-md-6 col-lg-4">
-            <div class="card">
-                <h3> Subrato Kumar Paul</h3>
-                <h5> Executive Member, BECM'19 </h5>
             </div>
         </div>
     </div>

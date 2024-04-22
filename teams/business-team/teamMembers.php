@@ -35,15 +35,15 @@
             <h5> Executive Member, ME'20 </h5>
         </div>
     </div>
+</div>
+
+<div class="row collapse" id="collapsibleMembers">
     <div class="memberCol col-12 col-md-6 col-lg-4">
         <div class="card">
             <h3> Arfanul Alam Tonoy</h3>
             <h5> Executive Member, CE'20 </h5>
         </div>
     </div>
-</div>
-
-<div class="row collapse" id="collapsibleMembers">
     <div class="memberCol col-12 col-md-6 col-lg-4">
         <div class="card">
             <h3> Tuba Khan </h3>
