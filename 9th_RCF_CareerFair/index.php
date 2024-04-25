@@ -45,24 +45,11 @@ Real_star_propertie
         What's happening?
     </h1>
     <p>
-        The "9th RCF Career Fair, 2024" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games.
-        <br /> <br />
-        This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
-
-        <!-- <br> <br> -->
-        <!-- <b>Go to sections:</b>
-        <a href="#sponsprs" class="mr-2">
-            <i class="fa fa-link" aria-hidden="true"></i>
-            Spondors & Companies
-        </a>
-        <a href="#" class="mr-2">
-            <i class="fa fa-link" aria-hidden="true"></i>
-            Program schedule
-        </a>
-        <a href="#" class="mr-2">
-            <i class="fa fa-link" aria-hidden="true"></i>
-            CV drop for compnaies
-        </a> -->
+        On 26th and 27th April, 2024 RUET Career Forum will be holding the Real Star Properties Limited presents the 9th RCF Career Fair.
+        <br><br>
+        A golden opportunity for fresh graduates to connect with potential employers and explore exciting opportunities. Current students, this fair has tons to offer you as well. Gain valuable insights from insightful seminars covering technical careers, navigating the government sector, and the latest HR trends. The HR summit promises insider knowledge you won't want to miss! But that's not all!! Participate in exciting competitions such as Treasure Hunting, Poster presentation, Analytical writing to earn fortune and fame. Don't miss out! Vist the 9th RCF Career Fair and take a decisive step towards solidifying your career plan.
+        <br><br>
+        This mega event is being organized in association with the Director of Students' Welfare, RUET(DSW).
     </p>
     <div class="text-center"> <a href="<?php echo BASE_URL; ?>/9th_RCF_CareerFair/cv_drop/" id="cv_drop_submit" class="btn btn-primary">
             <i class="fa fa-paper-plane pr-1"></i><span id="submit_text">CV Submission</span>
@@ -74,46 +61,64 @@ Real_star_propertie
 <div class="container mt-5" id="sponsprs">
     <h1 class="display-6">
         <i class="fa fa-check-square-o pr-2" aria-hidden="true"></i>
+        Title Sponsor
+    </h1>
+    <div class="row">
+
+        <div class="col-md-12 col-12">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Real Star Properties Limited</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5" id="sponsprs">
+    <h1 class="display-6">
+        <i class="fa fa-check-square-o pr-2" aria-hidden="true"></i>
         Media Partner
     </h1>
     <div class="row">
         <div class="col-md-12 col-12">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">Somoy News</li>
-                <li class="list-group-item">Daily Observer</li>
+                <li class="list-group-item">Radio RUET</li>
+                <!-- <li class="list-group-item">Daily Observer</li> -->
             </ul>
         </div>
 
     </div>
 </div>
+
 <div class="container mt-5" id="sponsprs">
     <h1 class="display-6">
         <i class="fa fa-check-square-o pr-2" aria-hidden="true"></i>
-        Apparel Partner
+        Community Partner
     </h1>
     <div class="row">
         <div class="col-md-12 col-12">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">Earthmoving Solutions</li>
+                <li class="list-group-item">RUET ALUMNI ASSOCIATION</li>
             </ul>
         </div>
 
     </div>
 </div>
+
 <div class="container mt-5" id="sponsprs">
     <h1 class="display-6">
         <i class="fa fa-check-square-o pr-2" aria-hidden="true"></i>
-        Snacks & Beverage Partner
+        Beverage Partner
     </h1>
     <div class="row">
-
         <div class="col-md-12 col-12">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">All time bun & Frooto</li>
+                <li class="list-group-item">Meghna Group of Industries (MGI) </li>
             </ul>
         </div>
+
     </div>
 </div>
+
 <!-- sponsors -->
 
 <!-- cmpanies-->
@@ -122,19 +127,40 @@ Real_star_propertie
         <i class="fa fa-check-square-o pr-2" aria-hidden="true"></i>
         Participating Companies
     </h1>
+
     <div class="row">
         <div class="col-md-6 col-12">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">BJIT Ltd.</li>
-                <li class="list-group-item">Crown Cement</li>
-                <li class="list-group-item">RFL</li>
+                <li class="list-group-item">BSRM </li>
+                <li class="list-group-item">Earthmoving Solutions Ltd</li>
+                <li class="list-group-item">RH corporation Ltd.</li>
             </ul>
         </div>
         <div class="col-md-6 col-12">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">BSRM</li>
-                <li class="list-group-item">Pran </li>
-                <li class="list-group-item">Mentors' </li>
+                <li class="list-group-item">RFL</li>
+                <li class="list-group-item">Pran</li>
+                <li class="list-group-item">Bevy commerce</li>
+            </ul>
+        </div>
+        <div class="col-md-6 col-12">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Ecologyx</li>
+                <li class="list-group-item">Walton</li>
+                <li class="list-group-item">Navana</li>
+            </ul>
+        </div>
+        <div class="col-md-6 col-12">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Huawei</li>
+                <li class="list-group-item">Meghna group of Industries</li>
+                <li class="list-group-item">Star ceramics</li>
+            </ul>
+        </div>
+        <div class="col-md-6 col-12">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Renata ltd.</li>
+                <li class="list-group-item">Real star properties</li>
             </ul>
         </div>
     </div>
@@ -157,11 +183,11 @@ Real_star_propertie
                         <h5 class="mb-1">Opening ceremony</h5>
                         <small>Day 1</small>
                     </div>
-                    <p class="mb-1 content">Grand opening of the ceremony and introduction of all participating
+                    <p class="mb-1 content">
+                        Grand opening of the ceremony and introduction of all participating
                         companies and organizations.
-
                     </p>
-                    <small> 15/09/2023 9:00am - 10:00am </small>
+                    <small> 26/04/2024 8:30am - 9:30am </small>
                 </a>
             </div>
         </div>
@@ -169,41 +195,28 @@ Real_star_propertie
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1"> Stall Visit</h5>
+                        <h5 class="mb-1">Opening Ceremony and Stall Visit</h5>
                         <small>Day 1</small>
                     </div>
                     <p class="mb-1 content">Chief Guests will start to visit the stalls.
 
                     </p>
-                    <small> 15/09/2023 10:00am - 11:00am </small>
+                    <small> 26/04/2024 9:30am - 11:00am </small>
                 </a>
             </div>
         </div>
+
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1"> CV Submission</h5>
+                        <h5 class="mb-1">CV Submission</h5>
                         <small>Day 1</small>
                     </div>
                     <p class="mb-1 content">Interested fresh graduates and undergraduates will submit CV
 
                     </p>
-                    <small> 15/09/2023 11:00am - 1:00pm </small>
-                </a>
-            </div>
-        </div>
-        <div class="col-md-6 col-12">
-            <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-                    <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Prayer & Lunch Break </h5>
-                        <small>Day 1</small>
-                    </div>
-                    <p class="mb-1 content">Prayer & Lunch Break
-
-                    </p>
-                    <small> 15/09/2023 1:00pm - 2:30pm </small>
+                    <small> 26/04/2024 All day </small>
                 </a>
             </div>
         </div>
@@ -212,13 +225,72 @@ Real_star_propertie
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Career Seminar </h5>
+                        <h5 class="mb-1">Poster Judgement & Treasure Hunt</h5>
                         <small>Day 1</small>
                     </div>
-                    <p class="mb-1 content">Career Seminar
+                    <p class="mb-1 content">Interested fresh graduates and undergraduates will participate in Poster Judgement & Treasure Hunt
 
                     </p>
-                    <small> 15/09/2023 2:30pm - 4:30pm </small>
+                    <small> 26/04/2024 11:00am - 12:00pm </small>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-6 col-12">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">CV Session</h5>
+                        <small>Day 1</small>
+                    </div>
+                    <p class="mb-1 content">CV Session will be held
+
+                    </p>
+                    <small> 26/04/2024 12:00pm - 1:00pm </small>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-12">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Lunch Break </h5>
+                        <small>Day 1</small>
+                    </div>
+                    <p class="mb-1 content">Lunch Break
+
+                    </p>
+                    <small> 26/04/2024 1:00pm - 2:15pm </small>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-12">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">HR Summit (Part1) </h5>
+                        <small>Day 1</small>
+                    </div>
+                    <p class="mb-1 content">HR Summit (Part1)
+
+                    </p>
+                    <small> 26/04/2024 2:30pm - 3:30pm </small>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-12">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Technical Job Seminar </h5>
+                        <small>Day 1</small>
+                    </div>
+                    <p class="mb-1 content">HR Summit (Part1)
+
+                    </p>
+                    <small> 26/04/2024 3:30pm - 5:00pm </small>
                 </a>
             </div>
         </div>
@@ -266,10 +338,11 @@ Real_star_propertie
                     <p class="mb-1 content">Day 2 of 8th RCF Career Fair starts.
 
                     </p>
-                    <small> 16/09/2023 9:00am </small>
+                    <small> 27/04/2024 8:30am </small>
                 </a>
             </div>
         </div>
+
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
@@ -280,30 +353,25 @@ Real_star_propertie
                     <p class="mb-1 content">Interested fresh graduates and undergraduates will submit CV
 
                     </p>
-                    <small> 16/09/2023 All day </small>
+                    <small> 27/04/2024 All day </small>
                 </a>
             </div>
         </div>
-
 
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Poster presentation </h5>
+                        <h5 class="mb-1">Seminal and Examination of Huawei </h5>
                         <small>Day 2</small>
                     </div>
-                    <p class="mb-1 content">Poster presentation
+                    <p class="mb-1 content">Seminal and Examination of Huawei
 
                     </p>
-                    <small> 16/09/2023 11:00am - 1:00pm </small>
+                    <small> 27/04/2024 11:00am - 1:00pm </small>
                 </a>
             </div>
         </div>
-
-
-
-
 
         <div class="col-md-6 col-12">
             <div class="list-group">
@@ -315,60 +383,52 @@ Real_star_propertie
                     <p class="mb-1 content">Prayer & Lunch Break
 
                     </p>
-                    <small> 16/09/2023 1:30pm - 3:00pm </small>
+                    <small> 27/04/2024 1:00pm - 2:00pm </small>
                 </a>
             </div>
         </div>
-
 
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">HR summit </h5>
+                        <h5 class="mb-1">HR summit (Part2) </h5>
                         <small>Day 2</small>
                     </div>
-                    <p class="mb-1 content">HR summit
+                    <p class="mb-1 content">HR summit (Part2)
 
                     </p>
-                    <small> 16/09/2023 3:00pm - 4:30pm </small>
+                    <small> 27/04/2024 3:00pm - 4:30pm </small>
                 </a>
             </div>
         </div>
-
-        <!--   <div class="col-md-6 col-12">
-            <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-                    <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Seminar </h5>
-                        <small>Day 2</small>
-                    </div>
-                    <p class="mb-1 content">
-                        Title - Study in UK; scopes and opportunities for Engineering Students <br>
-                        Speaker - Md. Mehedi Hasan,
-                        CEO Albatross Education <br>
-                        Former President Bangladesh Student Association, UK
-
-                    </p>
-                    <small> 19/11/2022 3:00pm </small>
-                </a>
-            </div>
-        </div>              commenting -->
-
-
 
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Closing Ceremony </h5>
+                        <h5 class="mb-1">BCS Seminal </h5>
+                        <small>Day 2</small>
+                    </div>
+                    <p class="mb-1 content">BCS Seminar
+
+                    </p>
+                    <small> 27/04/2024 3:00pm - 4:30pm </small>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-12">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Prize Giving & Closing Ceremony </h5>
                         <small>Day 2</small>
                     </div>
                     <p class="mb-1 content">
-                        Closing Ceremony of 8th RCF Career Fair
-
+                        Prize Giving & Closing Ceremony
                     </p>
-                    <small> 16/09/2023 4:30pm-5:00pm </small>
+                    <small> 27/04/2024 5:00pm-6:00pm </small>
                 </a>
             </div>
         </div>
