@@ -32,9 +32,9 @@ $current_page_name = 'career fair';
                 <p class="text-justify">The convenor of this event was Kazi Amit Hasan. Mominul Islam Rasel, Abu Said Md. Rezoun, Rifat Bin Siraj, Sumaiya Chowdhury Anika, and Anika Ibnat performed their duties as joint convenors.</p> -->
             <h3>SCHEDULE OF TWO DAYS</h3>
             <p class="text-justify">What’s Happening:
-            The "8th RCF Career Fair, 2023" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games. 
-            <br>
-            This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
+                The "8th RCF Career Fair, 2023" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games.
+                <br>
+                This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
             </p>
         </div>
     </div>
@@ -82,7 +82,7 @@ $current_page_name = 'career fair';
                     </div>
                 </div>
                 <p>
-                 Our participating partners were - BJIT, Crown, BSRM, Pran. Media partners were - Prothom Alo, Shomoy News. Apparel partner was Earthmoving Solutions, Snacks & Beverage Partner was All time bun & Frooto.
+                    Our participating partners were - BJIT, Crown, BSRM, Pran. Media partners were - Prothom Alo, Shomoy News. Apparel partner was Earthmoving Solutions, Snacks & Beverage Partner was All time bun & Frooto.
                 </p>
             </div>
         </div>
@@ -111,7 +111,7 @@ $current_page_name = 'career fair';
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                            Opening ceremony
+                                Opening ceremony
                                 <br>
                             </h4>
                             <!-- <span class="event-location">
@@ -133,7 +133,7 @@ $current_page_name = 'career fair';
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                            Stall Visit
+                                Stall Visit
                                 <br>
                             </h4>
                             <!-- <span class="event-location">
@@ -155,7 +155,7 @@ $current_page_name = 'career fair';
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                            CV Submission, Prayer & Lunch Break, Career Seminar.
+                                CV Submission, Prayer & Lunch Break, Career Seminar.
                                 <br>
                             </h4>
                             <!-- <span class="event-location">
@@ -199,7 +199,7 @@ $current_page_name = 'career fair';
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                            CV Submission, Poster presentation, Prayer & Lunch Break, HR summit, Closing Ceremony.
+                                CV Submission, Poster presentation, Prayer & Lunch Break, HR summit, Closing Ceremony.
                                 <br>
                             </h4>
                             <!-- <span class="event-location">
@@ -218,7 +218,7 @@ $current_page_name = 'career fair';
         <!-- events details starts here -->
         <div class="dark-bg">
             <div class="container py-4 event-details">
-            RUET Career Forum launched its first prestigious flagship event in 2016 titled 1st RCF Job Fair. Thereafter RCF has been arranging its flagship Career event every following year on campus. This fair has been a great opportunity for undergrad and fresh graduate students from RUET as well as the north Bengal region to introduce them to the corporate world. Students have been able to judge their efficiency and quality throughout the event. Following every year, in 2022 RUET Career Forum arranged the 8th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to multidisciplinary companies.
+                RUET Career Forum launched its first prestigious flagship event in 2016 titled 1st RCF Job Fair. Thereafter RCF has been arranging its flagship Career event every following year on campus. This fair has been a great opportunity for undergrad and fresh graduate students from RUET as well as the north Bengal region to introduce them to the corporate world. Students have been able to judge their efficiency and quality throughout the event. Following every year, in 2022 RUET Career Forum arranged the 8th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to multidisciplinary companies.
             </div>
         </div>
         <!-- event details ends here -->

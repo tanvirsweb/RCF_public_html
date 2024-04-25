@@ -4,8 +4,7 @@ include '../inc/header.php';
 ?>
 
 <!-- about page starts here -->
-<div id="homeHeader parallax-window" data-parallax="scroll" data-speed=".5"
-    data-image-src="<?php echo BASE_URL; ?>/assets/img/test1.jpg">
+<div id="homeHeader parallax-window" data-parallax="scroll" data-speed=".5" data-image-src="<?php echo BASE_URL; ?>/assets/img/test1.jpg">
     <div id="innerHomeBranding">
         <div class="overlay">
             <div class="container">
@@ -37,36 +36,28 @@ include '../inc/header.php';
         <!-- Nav tabs buttuons starts here -->
         <ul class="nav nav-tabs-gallary justify-content-center" role="tablist">
             <li class="nav-item">
-                <a class="nav-link mr-2 active" data-toggle="tab" href="#e-2021-22" role="tab" aria-controls="e-2021-22"
-                    aria-selected="false">2021-22</a>
+                <a class="nav-link mr-2 active" data-toggle="tab" href="#e-2021-22" role="tab" aria-controls="e-2021-22" aria-selected="true">2021-22</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2020-21" role="tab" aria-controls="e-2020-21"
-                    aria-selected="false">2020-21</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2020-21" role="tab" aria-controls="e-2020-21" aria-selected="false">2020-21</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2019-20" role="tab" aria-controls="e-2019-20"
-                    aria-selected="false">2019-20</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2019-20" role="tab" aria-controls="e-2019-20" aria-selected="false">2019-20</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2018-19" role="tab" aria-controls="e-2018-19"
-                    aria-selected="false">2018-19</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2018-19" role="tab" aria-controls="e-2018-19" aria-selected="false">2018-19</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2017-18" role="tab" aria-controls="e-2017-18"
-                    aria-selected="false">2017-18</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2017-18" role="tab" aria-controls="e-2017-18" aria-selected="false">2017-18</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2016-17" role="tab" aria-controls="e-2016-2017"
-                    aria-selected="false">2016-17</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2016-17" role="tab" aria-controls="e-2016-2017" aria-selected="false">2016-17</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2015-16" role="tab" aria-controls="e-2015-2016"
-                    aria-selected="false">2015-16</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2015-16" role="tab" aria-controls="e-2015-2016" aria-selected="false">2015-16</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link mr-2" data-toggle="tab" href="#e-2014-15" role="tab" aria-controls="e-2014-2015"
-                    aria-selected="false">2014-15</a>
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2014-15" role="tab" aria-controls="e-2014-2015" aria-selected="false">2014-15</a>
             </li>
         </ul>
         <!-- nav tabs buttons ends here -->
@@ -74,13 +65,13 @@ include '../inc/header.php';
 
         <!-- Tab content panes starts here -->
         <div class="tab-content row justify-content-center">
-            
+
             <div class="col-lg-12 text-center tab-pane active" id="e-2021-22" role="tabpanel">
-                <?php include 'hall-of-fame-2021-22.php'; ?>                
+                <?php include 'hall-of-fame-2021-22.php'; ?>
             </div>
 
-            <div class="col-lg-12 text-center tab-pane active" id="e-2020-21" role="tabpanel">
-                <?php include 'hall-of-fame-2020-21.php'; ?>                
+            <div class="col-lg-12 text-center tab-pane" id="e-2020-21" role="tabpanel">
+                <?php include 'hall-of-fame-2020-21.php'; ?>
             </div>
             <div class="col-lg-12 text-center tab-pane" id="e-2019-20" role="tabpanel">
                 <?php include 'hall-of-fame-2019-20.php'; ?>

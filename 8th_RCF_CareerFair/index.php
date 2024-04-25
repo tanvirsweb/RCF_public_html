@@ -28,9 +28,9 @@ include '../inc/header.php';
         What's happening?
     </h1>
     <p>
-       The "8th RCF Career Fair, 2023" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games. 
-<br/> <br/>
-This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
+        The "8th RCF Career Fair, 2023" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games.
+        <br /> <br />
+        This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
 
         <!-- <br> <br> -->
         <!-- <b>Go to sections:</b>
@@ -45,11 +45,11 @@ This event will make a pathway for the undergraduates, freshly graduates as well
         <a href="#" class="mr-2">
             <i class="fa fa-link" aria-hidden="true"></i>
             CV drop for compnaies
-        </a> --> 
+        </a> -->
     </p>
-    <div class="text-center"> <a href="<?php echo BASE_URL; ?>/8th_RCF_CareerFair/cv_drop/" id="cv_drop_submit"class="btn btn-primary">
+    <!-- <div class="text-center"> <a href="<?php echo BASE_URL; ?>/8th_RCF_CareerFair/cv_drop/" id="cv_drop_submit"class="btn btn-primary">
                         <i class="fa fa-paper-plane pr-1"></i><span id="submit_text">CV Submission</span>
-                    </a></div>
+                    </a></div> -->
 </div>
 <!-- whats happening -->
 
@@ -63,10 +63,10 @@ This event will make a pathway for the undergraduates, freshly graduates as well
         <div class="col-md-12 col-12">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">Somoy News</li>
-                 <li class="list-group-item">Daily Observer</li>
+                <li class="list-group-item">Daily Observer</li>
             </ul>
         </div>
-        
+
     </div>
 </div>
 <div class="container mt-5" id="sponsprs">
@@ -80,7 +80,7 @@ This event will make a pathway for the undergraduates, freshly graduates as well
                 <li class="list-group-item">Earthmoving Solutions</li>
             </ul>
         </div>
-        
+
     </div>
 </div>
 <div class="container mt-5" id="sponsprs">
@@ -89,7 +89,7 @@ This event will make a pathway for the undergraduates, freshly graduates as well
         Snacks & Beverage Partner
     </h1>
     <div class="row">
-        
+
         <div class="col-md-12 col-12">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">All time bun & Frooto</li>
@@ -206,7 +206,7 @@ This event will make a pathway for the undergraduates, freshly graduates as well
             </div>
         </div>
 
-       <!--  <div class="col-md-6 col-12">
+        <!--  <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">
@@ -267,8 +267,8 @@ This event will make a pathway for the undergraduates, freshly graduates as well
                 </a>
             </div>
         </div>
-         
-        
+
+
         <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
@@ -319,7 +319,7 @@ This event will make a pathway for the undergraduates, freshly graduates as well
             </div>
         </div>
 
-     <!--   <div class="col-md-6 col-12">
+        <!--   <div class="col-md-6 col-12">
             <div class="list-group">
                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
                     <div class="d-flex w-100 justify-content-between">

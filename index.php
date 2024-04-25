@@ -23,7 +23,7 @@ $_SESSION['isLoading'] = false;
         <br>
         <!--<a href="<?php echo BASE_URL; ?>/careerfair" class="btn btn-primary">RCF Career Fair</a>-->
         <a href="<?php echo BASE_URL; ?>/9th_RCF_CareerFair" class="btn btn-primary">9th RCF Career Fair</a>
-        <a href="9th_RCF_CareerFair/cv_drop/index.php" id="cv_drop_submit" class="btn btn-primary">
+        <a href="<?php echo BASE_URL; ?>/9th_RCF_CareerFair/cv_drop/" id="cv_drop_submit" class="btn btn-primary">
           <i class="fa fa-paper-plane pr-1"></i><span id="submit_text">CV Submission</span>
         </a>
         <!-- <a href="<?php echo BASE_URL; ?>/about" class="btn btn-outline-primary mr-2">About us</a> -->
