@@ -403,7 +403,7 @@
     </div>
     <div class="col-md-6 px-md-2">
         <div class="card">
-            <h3>Fazl Rabbi</h3>
+            <h3>Fazle Rabbi</h3>
             <h5>Executive Member</h5>
         </div>
     </div>
