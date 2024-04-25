@@ -324,7 +324,7 @@ function validateCompany() {
       "You must select a company.";
   } else {
     var name = this.value;
-    var charMatch = name.match(/[a-z]/gi);
+    var charMatch = name.match(/[A-Za-z_]/gi);//capital letter , smallercase  or underscore
     var spaceMatch = name.match(/[ ]/g);
     var chars = charMatch ? charMatch.length : 0;
     var spaces = spaceMatch ? spaceMatch.length : 0;
