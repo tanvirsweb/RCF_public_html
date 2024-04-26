@@ -5,9 +5,9 @@ $current_page_name = 'career fair';
 
 <!-- fair page started -->
 <div id="fairBranding">
-    <h1> 8<sup>th</sup> RCF Career Fair </h1>
+    <h1> 9<sup>th</sup> RCF Career Fair </h1>
     <p>
-        <b>Date: </b> 15 & 16 September, 2023
+        <b>Date: </b> 26 & 27 April, 2024
         <br>
         <b>Location: </b> Rajshahi University of Engineering and Technology
     </p>
@@ -23,16 +23,16 @@ $current_page_name = 'career fair';
                 Thereafter RCF has been arranging its flagship Career event every following year on campus. This fair
                 has been a great opportunity for undergrad and fresh graduate students from RUET as well as the north
                 Bengal region to introduce them to the corporate world. Students have been able to judge their
-                efficiency and quality throughout the event. Following every year, in 2023 RUET Career Forum arranged
-                the 8th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to
+                efficiency and quality throughout the event. Following every year, in 2024 RUET Career Forum arranged
+                the 9th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to
                 multidisciplinary companies.
             </p>
-            <a href="https://fb.me/e/4xyvgTj6x" target="_blank" class="btn btn-sm btn-primary">View event page</a>
+            <a href="https://www.facebook.com/rcfcareerfair" target="_blank" class="btn btn-sm btn-primary">View event page</a>
             <!-- <h3>COMMITTEE LIST</h3>
                 <p class="text-justify">The convenor of this event was Kazi Amit Hasan. Mominul Islam Rasel, Abu Said Md. Rezoun, Rifat Bin Siraj, Sumaiya Chowdhury Anika, and Anika Ibnat performed their duties as joint convenors.</p> -->
             <h3>SCHEDULE OF TWO DAYS</h3>
             <p class="text-justify">What’s Happening:
-                The "8th RCF Career Fair, 2023" will be held on September 15th and 16th, 2023, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games.
+                The "9th RCF Career Fair, 2024" will be held on April 26th and 27th, 2024, and is being organized by RUET Career Forum in collaboration with the Office of Students' Welfare, RUET, and REOSA as a community partner. This fair is coming with diverse counties like CV assessment, campus recruitment, career development related seminars, HR summit, analytical quiz contest, poster presentation, and offline games.
                 <br>
                 This event will make a pathway for the undergraduates, freshly graduates as well as the recruiters to connect with the real corporate world. This event will prepare the students for the tough competition of professional life waiting for them. They will have an idea about the criterion of numerous reputable businesses with career opportunities.
             </p>
@@ -53,36 +53,70 @@ $current_page_name = 'career fair';
 
             <div class="">
                 <div class="row">
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/bjit.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/bsrm.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/bsrm.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/earthmoving.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/crown.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/rhcorp.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/earthmoving.png" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/walton-logo.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/mentors.png" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/rfl.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/pran.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/pran.jpeg" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/rfl.png" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/huawei.png" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/prothomalo.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/bevycommerce.jpg" alt="">
                     </div>
-                    <div class="col-4 col-md-3 col-lg-2 company-img pt-4">
-                        <img src="<?php echo BASE_URL; ?>/assets/img/company/8th_fair/somoy.jpeg" alt="">
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/echologyx.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/navana.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/renatapng.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/mgi.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/star_ceramics.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/daily_objerver.jpg" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/radio-ruet.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/frooto.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/alltime.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/ruet_alumni.jpg" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/rupali_bank_logo.png" alt="">
+                    </div>
+                    <div class="col-3 col-md-3 col-lg-2.4 company-img pt-4">
+                        <img src="<?php echo BASE_URL; ?>/assets/img/company/9th_fair/real star.jpg" alt=""> 
+                        
                     </div>
                 </div>
                 <p>
-                    Our participating partners were - BJIT, Crown, BSRM, Pran. Media partners were - Prothom Alo, Shomoy News. Apparel partner was Earthmoving Solutions, Snacks & Beverage Partner was All time bun & Frooto.
+                    Our participating partners were - BSRM, Earthmoving Solutions Ltd., RH corporation Ltd., RFL, Pran, Bevy Commerce, Echologyx, Walton, Navana, Huawei, Meghna Group of Industries, Star Ceramics, Renata Ltd. Media partners were - Daily Observer, Radio Ruet, Snacks & Beverage Partner was All Time & Frooto. Alliance Partner Rupali Bank Ltd. Title Sponsor - Real Star Properties.
                 </p>
             </div>
         </div>
@@ -105,8 +139,8 @@ $current_page_name = 'career fair';
                     <div class="card rounded dark-bg m-0">
                         <div class="event-time rounded bg-success">
                             <div class="vertical-center text-white text-center">
-                                <h6 class="my-0">September</h6>
-                                <h1 class="my-0">15</h1>
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">26</h1>
                             </div>
                         </div>
                         <div class="event-description">
@@ -127,8 +161,8 @@ $current_page_name = 'career fair';
                     <div class="card rounded dark-bg m-0">
                         <div class="event-time rounded bg-success">
                             <div class="vertical-center text-white text-center">
-                                <h6 class="my-0">September</h6>
-                                <h1 class="my-0">15</h1>
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">26</h1>
                             </div>
                         </div>
                         <div class="event-description">
@@ -145,18 +179,61 @@ $current_page_name = 'career fair';
                     </div>
                 </div>
 
-                <div class="col-12 mb-4">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card rounded dark-bg m-0">
                         <div class="event-time rounded bg-success">
                             <div class="vertical-center text-white text-center">
-                                <h6 class="my-0">September</h6>
-                                <h1 class="my-0">15</h1>
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">26</h1>
                             </div>
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                                CV Submission, Prayer & Lunch Break, Career Seminar.
+                            CV Submission, Poster Judgement & Treasure Hunt.
                                 <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">26</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            CV Session, Prayer & Lunch Break.
+                                <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">26</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            HR Summit (Part 1), Technical Job Seminar.
+                            <br>
                             </h4>
                             <!-- <span class="event-location">
                                     <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
@@ -189,18 +266,105 @@ $current_page_name = 'career fair';
                     </div>
                 </div> -->
 
-                <div class="col-12 mb-4">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card rounded dark-bg m-0">
                         <div class="event-time rounded bg-success">
                             <div class="vertical-center text-white text-center">
-                                <h6 class="my-0">Semptember</h6>
-                                <h1 class="my-0">16</h1>
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">27</h1>
                             </div>
                         </div>
                         <div class="event-description">
                             <h4 class="event-title">
-                                CV Submission, Poster presentation, Prayer & Lunch Break, HR summit, Closing Ceremony.
+                                CV Submission.
                                 <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">27</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            Seminal and Examination of Huawei.
+                                <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">27</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            Prayer & Lunch Break, HR summit (Part 2).
+                                <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">27</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            Seminar on BCS.
+                                <br>
+                            </h4>
+                            <!-- <span class="event-location">
+                                    <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
+                                </span>
+                                <br> -->
+                            <!-- <a href="https://fb.me/e/3qKSpLK1J" target="_blank" class="btn btn-sm btn-primary">View event</a> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 mb-4">
+                    <div class="card rounded dark-bg m-0">
+                        <div class="event-time rounded bg-success">
+                            <div class="vertical-center text-white text-center">
+                                <h6 class="my-0">April</h6>
+                                <h1 class="my-0">27</h1>
+                            </div>
+                        </div>
+                        <div class="event-description">
+                            <h4 class="event-title">
+                            Prize Giving & Closing Ceremony.
+                            <br>
                             </h4>
                             <!-- <span class="event-location">
                                     <i class="fa fa-map-marker pr-1"></i> Central Auditorium, RUET.
@@ -218,7 +382,7 @@ $current_page_name = 'career fair';
         <!-- events details starts here -->
         <div class="dark-bg">
             <div class="container py-4 event-details">
-                RUET Career Forum launched its first prestigious flagship event in 2016 titled 1st RCF Job Fair. Thereafter RCF has been arranging its flagship Career event every following year on campus. This fair has been a great opportunity for undergrad and fresh graduate students from RUET as well as the north Bengal region to introduce them to the corporate world. Students have been able to judge their efficiency and quality throughout the event. Following every year, in 2022 RUET Career Forum arranged the 8th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to multidisciplinary companies.
+                RUET Career Forum launched its first prestigious flagship event in 2016 titled 1st RCF Job Fair. Thereafter RCF has been arranging its flagship Career event every following year on campus. This fair has been a great opportunity for undergrad and fresh graduate students from RUET as well as the north Bengal region to introduce them to the corporate world. Students have been able to judge their efficiency and quality throughout the event. Following every year, in 2022 RUET Career Forum arranged the 9th RCF Career Fair. Students and fresh graduates got the opportunity to submit their resumes to multidisciplinary companies.
             </div>
         </div>
         <!-- event details ends here -->
@@ -233,7 +397,7 @@ $current_page_name = 'career fair';
 
     </div>
 
-    <div class="pt-3 pb-5 text-center"><a href="<?php echo BASE_URL; ?>/8th_RCF_CareerFair" class="btn btn-sm btn-primary">View details of 8th Career
+    <div class="pt-3 pb-5 text-center"><a href="<?php echo BASE_URL; ?>/9th_RCF_CareerFair" class="btn btn-sm btn-primary">View details of 9th Career
             Fair</a></div>
 
 </div>
