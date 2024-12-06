@@ -36,7 +36,10 @@ include '../inc/header.php';
         <!-- Nav tabs buttuons starts here -->
         <ul class="nav nav-tabs-gallary justify-content-center" role="tablist">
             <li class="nav-item">
-                <a class="nav-link mr-2 active" data-toggle="tab" href="#e-2021-22" role="tab" aria-controls="e-2021-22" aria-selected="true">2021-22</a>
+                <a class="nav-link mr-2 active" data-toggle="tab" href="#e-2022-23" role="tab" aria-controls="e-2022-23" aria-selected="true">2022-23</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link mr-2" data-toggle="tab" href="#e-2021-22" role="tab" aria-controls="e-2021-22" aria-selected="false">2021-22</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link mr-2" data-toggle="tab" href="#e-2020-21" role="tab" aria-controls="e-2020-21" aria-selected="false">2020-21</a>
@@ -66,10 +69,12 @@ include '../inc/header.php';
         <!-- Tab content panes starts here -->
         <div class="tab-content row justify-content-center">
 
+            <div class="col-lg-12 text-center tab-pane active" id="e-2022-23" role="tabpanel">
+                <?php include 'hall-of-fame-2022-23.php'; ?>
+            </div>
             <div class="col-lg-12 text-center tab-pane active" id="e-2021-22" role="tabpanel">
                 <?php include 'hall-of-fame-2021-22.php'; ?>
             </div>
-
             <div class="col-lg-12 text-center tab-pane" id="e-2020-21" role="tabpanel">
                 <?php include 'hall-of-fame-2020-21.php'; ?>
             </div>

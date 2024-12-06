@@ -200,6 +200,16 @@ include '../../inc/header.php';
         <?php include './teamMembers.php'; ?>
     </div>
 </div>
+
+<div class="container-fluid pb-5" id="team-section">
+    <div class="container">
+        <h1 class="font-weight-lighter text-center text-black pt-5">
+            FORMER LEADS
+        </h1>
+        <div class="RCF-border-bottom"></div>
+        <?php include './former-leads.php'; ?>
+    </div>
+</div>
 <!-- TEAM MEMBERS SECTION END -->
 <!-- about card ends here -->
 

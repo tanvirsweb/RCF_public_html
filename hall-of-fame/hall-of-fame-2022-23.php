@@ -1,5 +1,5 @@
 <div class="row text-left content-section all-members">       
-    <!-- <div class="col-md-6 px-md-2">
+    <div class="col-md-6 px-md-2">
         <div class="card">
             <h3>Dr. Md. Nazrul Islam Mondal</h3>
             <h5>Advisor</h5>
@@ -10,7 +10,7 @@
             <h3>Md. Abu Ismail Siddique</h3>
             <h5>Advisor</h5>
         </div>
-    </div> -->
+    </div>
     <div class="col-md-6 px-md-2">
         <div class="card">
             <h3>Md. Rafi Khan</h3>
